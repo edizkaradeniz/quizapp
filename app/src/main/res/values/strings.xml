@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Soru Bilmece</string>
+
+    <string name="k1">Yorgan nevresime geçirilir</string>
+    <string name="k2">Barcelona, İspanyanın başkentidir.</string>
+    <string name="k3">Aynı anda nefes alman ve yutkunman mümkün değildir</string>
+    <string name="k4">1 km=1000 m</string>
+    <string name="k5">Ametaller kendi aralarında ve metallerle bileşik oluşturamaz </string>
+    <string name="k6">Alanya,Antalyanın bir ilçesidir</string>
+    <string name="k7">Türkiye,Avrupa Birliği ülkesidir </string>
+    <string name="k8">İstanbul 14.yy da fethedilmiştir</string>
+    <string name="k9">Her doğal sayı tam sayıdır</string>
+    <string name="k10">Dinazorlarla insanlar aynı anda yeryüzünde bulunmamıştır</string>
+
+    <string name="o1">Güneş Dünyaaya en yakın yıldızdır</string>
+    <string name="o2">Namaz, Arapça kökenli bir kelimedir</string>
+    <string name="o3">-1,1 sayısı -1,01 den daha büyüktür</string>
+    <string name="o4">Bazı filler popolarından nefes alabilirler</string>
+    <string name="o5">Avrupanın en kalabalık şehri İstanbuldur</string>
+    <string name="o6"> Kanımızın vücudumuzu dolaşmasi yalnızca 22-23 saniye sürüyor</string>
+    <string name="o7">21 Haziranda Kuzey Yarım Kürede yaz başlar</string>
+    <string name="o8">İranın yüzölçümü Türkiyenin yüzölçümünden büyüktür</string>
+    <string name="o9">İrlanda Cumhuriyeti Birleşik Krallığın bir parçasıdır</string>
+    <string name="o10">Yetişkin bir insan bir bebekten daha az kemiğe sahiptir</string>
+
+    <string name="z1">İnsan DNA sı %50 oranında salatalık DNA sı ile aynıdır</string>
+    <string name="z2"> Ahtapotların 3 tane kalbi vardır</string>
+    <string name="z3">Sihirli bir sözcük olarak lanse edilen "Abrakadabra", ilk olarak yüksek ateşli hastaların, ateşlerini düşürmek için söylenmiştir</string>
+    <string name="z4"> Altın en iyi iletkendir.</string>
+    <string name="z5"> Uganda da yaşayan Buganda insanları Luganda konuşur</string>
+    <string name="z6"> Dinozorlar olmasaydı kuşlar olmazdı</string>
+    <string name="z7">Chicago, Barcelona, Roma ve İstanbul, aynı enlem üzerindedir</string>
+    <string name="z8">Dünyadaki en kısa savaş 2 saat sürmüştür</string>
+    <string name="z9">Dünyadaki tüm yeni doğmuş bebekler La notasıyla ağlar</string>
+    <string name="z10">Çarşamba dilimize Farsçadan gelmiştir ve anlamı da "üçüncü gün" demektir</string>
+
+
+</resources>
